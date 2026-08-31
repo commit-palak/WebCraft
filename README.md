@@ -1,5 +1,3 @@
-# ProductDev_Kriti_25
-
 # WebCraft  
 
 ## Table of Contents  
@@ -37,7 +35,7 @@ WebCraft is an AI-powered website builder that allows users to generate, edit, a
 ### Prerequisites  
 - Install **Node.js** and **npm** on your local machine.
 ```bash
-git clone https://github.com/p1mple07/ProductDev_Kriti_25.git
+git clone https://github.com/commit-palak/WebCraft
 cd ProductDev_Kriti_25
 ```
 
