@@ -36,7 +36,7 @@ WebCraft is an AI-powered website builder that allows users to generate, edit, a
 - Install **Node.js** and **npm** on your local machine.
 ```bash
 git clone https://github.com/commit-palak/WebCraft
-cd ProductDev_Kriti_25
+cd WebCraft
 ```
 
 ### Backend Setup  
